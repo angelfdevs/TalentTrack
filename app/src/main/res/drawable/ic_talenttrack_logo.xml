@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Versión de la marca para mostrar dentro de Home. -->
+    <path
+        android:fillColor="#24345B"
+        android:pathData="M18,8h72a10,10 0,0 1,10 10v72a10,10 0,0 1,-10 10h-72a10,10 0,0 1,-10 -10v-72a10,10 0,0 1,10 -10z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M43,23a12,12 0,1 0,0 24a12,12 0,1 0,0 -24M20,84c0,-15 11,-27 25,-27h2c14,0 25,12 25,27v4H20z" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M62,68l8,8 18,-20"
+        android:strokeColor="#75E0B5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="7" />
+</vector>
